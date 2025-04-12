@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/counterApp/",
+      "destination": "/React101/counterApp/"
+    },
+    {
+      "source": "/bgColor/",
+      "destination": "/React101/bgColor/"
+    }
+  ]
+}
