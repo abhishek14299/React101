@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "counterApp",
+      "path": "React101/counterApp"
+    },
+    {
+      "name": "bgColor",
+      "path": "React101/bgColor"
+    }
+  ]
+}
